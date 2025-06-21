@@ -1,1 +1,1 @@
-# flow-test-front
+# 파일 확장자 차단
